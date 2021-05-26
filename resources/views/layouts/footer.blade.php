@@ -42,7 +42,7 @@
 	<!-- copyright section start -->	
 	<div class="copyright">
 		<div class="container">
-			<p class="copyright_text">Copyright 2021 All Right Reserved By.<a href="https://html.design"> Mohibbulla Munshi</p>
+			<p class="copyright_text">Copyright 2021 All Right Reserved By.<a href="https://www.facebook.com/mohib5g/"> Mohibbulla Munshi</p>
 		</div>
 	</div>
 	<!-- copyright section end -->	
